@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "948266205308",
+    "firebase_url": "https://classroomquiz-297fd.firebaseio.com",
+    "project_id": "classroomquiz-297fd",
+    "storage_bucket": "classroomquiz-297fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948266205308:android:256d86e927c1fcd46a49f9",
+        "android_client_info": {
+          "package_name": "com.example.classroomquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948266205308-mm2l2m64c8o0j736qlhtmmrah893asp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.classroomquiz",
+            "certificate_hash": "0bd9d0490ade9a1c2fab3a5ca5075f654b0349a1"
+          }
+        },
+        {
+          "client_id": "948266205308-otmtlnj49fi7jatccs4hr3rk9dr90q9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5F1h3EKu791tO1gy8x4abB9W7adZebIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948266205308-otmtlnj49fi7jatccs4hr3rk9dr90q9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
